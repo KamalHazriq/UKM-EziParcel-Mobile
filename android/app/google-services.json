@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "409550515516",
+    "firebase_url": "https://ukm-eziparcel-c71bc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ukm-eziparcel-c71bc",
+    "storage_bucket": "ukm-eziparcel-c71bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409550515516:android:5809ca5884e0ac3d028239",
+        "android_client_info": {
+          "package_name": "com.example.eziparcel_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBxlMczWA0u2rO8kFY7S6fRNjvrBK-jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
