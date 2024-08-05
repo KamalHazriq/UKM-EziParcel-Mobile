@@ -1,16 +1,20 @@
-# eziparcel_mobile
+## Final Year Project About Campus Parcel Management System :smiley: 
 
-A new Flutter project.
+This project involved developing a **comprehensive parcel management system** that includes a website for staff and a mobile app for students. Staff can manage parcels, record updates, and make announcements, while students **can track their parcels and set appointments for collection without needing to log in**.
 
-## Getting Started
+### The mobile application for this project has the following modules:
 
-This project is a starting point for a Flutter application.
+- Track Parcel
+- See Operation Hours
+- See Announcement
+- Make Appointments
 
-A few resources to get you started if this is your first Flutter project:
+### Built With:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Android Studio
+- Visual Studio Code
+- Dart
+- Firebase  
+          
+Video Demo : https://youtu.be/ov0ujFm-8zQ?si=xZSnP98nCQhCNwIc
